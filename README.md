@@ -28,7 +28,7 @@ Hướng dẫn sử dụng các mô hình và chạy notebook trên Google Colab
 4. Chạy các cell trong notebook để tải và chạy các mô hình.
 
 ## Mô hình
-
+Tham khảo tại các file ipynb
 ### Bart
 Tham khảo tại [Bart](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/SRC/Bart)
 ### LLaMA2
