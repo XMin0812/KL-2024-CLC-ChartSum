@@ -30,14 +30,14 @@ Hướng dẫn sử dụng các mô hình và chạy notebook trên Google Colab
 ## Mô hình
 
 ### Bart
-Tham khảo tại [Bart](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/Bart)
+Tham khảo tại [Bart](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/SRC/Bart)
 ### LLaMA2
-Tham khảo tại [LLaMA2](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/LLaMA)
+Tham khảo tại [LLaMA2](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/SRC/LLaMA)
 ### LLaMA3
-Tham khảo tại [LLaMA3](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/LLaMA)
+Tham khảo tại [LLaMA3](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/SRC/LLaMA)
 
 ## Sản phẩm thực nghiệm
-Tham khảo tại [Web Demo](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/Web_Demo)
+Tham khảo tại [Web Demo](https://github.com/XMin0812/KL-2024-CLC-ChartSum/tree/main/APP)
 
 ## Thông tin liên hệ
 Vũ Đắc Xuân Minh - vudacxuanminh0220@gmail.com
